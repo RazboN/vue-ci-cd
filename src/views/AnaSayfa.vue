@@ -2,7 +2,9 @@
   <div class="anaSayfa">
     <img alt="Vue logo" src="../assets/logo.png" />
     <GirisSayfasi baslik="Bilgisayar Programcılığı Final Sınavı" />
-    <h2>Deneme Ci-Cd : 12.07</h2>
+
+    <h2>Deneme Ci-Cd -> 14.05</h2>
+
   </div>
 </template>
 
